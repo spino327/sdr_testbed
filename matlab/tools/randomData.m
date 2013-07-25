@@ -1,5 +1,12 @@
-%% 2011 - Sergio Pino
-%   University of Delaware
+
+%Copyright (c) 2011, Universidad Industrial de Santander, Colombia
+%University of Delaware
+%All rights reserved.
+%@author: Sergio Pino
+%@author: Henry Arguello
+%Website: http://www.eecis.udel.edu/
+%emails  : sergiop@udel.edu - henarfu@udel.edu
+%Date   : Jun, 2011
 
 function [a_k, mx, var, p0, p1] = randomData(len)
 %randomData Generate random bits for test the BPSK implementation

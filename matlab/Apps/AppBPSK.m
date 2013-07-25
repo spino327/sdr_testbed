@@ -1,7 +1,6 @@
-%Copyright (c) 2011, Universidad Industrial de Santander, Colombia
+%Copyright (c) 2012, Universidad Industrial de Santander, Colombia
 %University of Delaware
 %All rights reserved.
-
 %@author: Sergio Pino
 %@author: Henry Arguello
 %Website: http://www.eecis.udel.edu/

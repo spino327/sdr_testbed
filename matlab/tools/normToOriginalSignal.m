@@ -1,3 +1,13 @@
+
+%Copyright (c) 2012, Universidad Industrial de Santander, Colombia
+%University of Delaware
+%All rights reserved.
+%@author: Sergio Pino
+%@author: Henry Arguello
+%Website: http://www.eecis.udel.edu/
+%emails  : sergiop@udel.edu - henarfu@udel.edu
+%Date   : Jun, 2012
+
 function [ fix ] = normToOriginalSignal( x, max, min )
 %UNTITLED2 Summary of this function goes here
 %   [ fix ] = normToOriginalSignal( x, orginal )

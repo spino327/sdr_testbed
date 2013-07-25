@@ -1,3 +1,12 @@
+%Copyright (c) 2011, Universidad Industrial de Santander, Colombia
+%University of Delaware
+%All rights reserved.
+%@author: Sergio Pino
+%@author: Henry Arguello
+%Website: http://www.eecis.udel.edu/
+%emails  : sergiop@udel.edu - henarfu@udel.edu
+%Date   : Sept, 2011
+
 function [ fading ] = fadingEstimator( sine )
 % FADINGESTIMATOR estimate fading, asuming fading cyclostationary
 %   Estimate alpha from a sine wave
