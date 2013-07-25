@@ -1,0 +1,53 @@
+9
+
+dir
+315
+svn+ssh://svn.eecis.udel.edu/repos/imssp/code/Master/Testbed/trunk/data
+svn+ssh://svn.eecis.udel.edu/repos/imssp
+
+
+
+2013-03-18T14:40:09.725412Z
+315
+pinogal
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6c9131cf-dc64-4b93-97dd-fc998c4b1a9c
+
+
+
+
+
+
+0
+
+a_k
+dir
+
+cs_results
+dir
+
+ks
+dir
+
+mapping
+dir
+
+optimization
+dir
+
+rcosine
+dir
+
