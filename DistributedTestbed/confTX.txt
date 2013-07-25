@@ -1,0 +1,10 @@
+txpath:/home/usrp_1/Dropbox/
+crsig:tx/carrier/bpskrlc.dat
+txip:172.16.92.129
+txport:9001
+lo_off:0
+fc:2410e6
+inter:512
+gain:0
+lc:0.5
+sync:True

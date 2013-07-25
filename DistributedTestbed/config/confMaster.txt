@@ -1,0 +1,9 @@
+txsig:data/tx/default/bpsk_mod_l10000_upRC20_gd5_ro20_p500_pp0.dat
+txat:1
+tsine:1
+tsig:0
+rxprefix:data/rx/default/
+txip:128.4.98.98
+txport:9001
+rxip:128.4.96.15
+rxport:9002

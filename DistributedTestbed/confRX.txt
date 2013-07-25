@@ -1,0 +1,8 @@
+rxpath:/home/usrp_2/Dropbox/
+rxip:172.16.92.129
+rxport:9002
+lo_off:0
+fc:2410e6
+dec:512
+gain:0
+sync:True
